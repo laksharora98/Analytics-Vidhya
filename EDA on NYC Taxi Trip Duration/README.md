@@ -1,4 +1,4 @@
-This is a project to learn Exploratory data analysis on the NYC Taxi Trip Duration [dataset](https://drive.google.com/file/d/1AYgg6_bTxW84Ip5Yhs0jhEsn88nFot6z/view?usp=sharing)
+This is a project to learn Exploratory data analysis by doing it on the NYC Taxi Trip Duration [dataset](https://drive.google.com/file/d/1AYgg6_bTxW84Ip5Yhs0jhEsn88nFot6z/view?usp=sharing)
 
 The .ipynb file can be opened as a jupyter notebook. The dataset should be present in the same folder as a .csv file.
 
