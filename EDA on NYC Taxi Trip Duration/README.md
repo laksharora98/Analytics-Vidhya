@@ -6,6 +6,9 @@ In this project we do the following:
 
 * Variable Identification and Typecasting
 * Feature Engineering to create new features
-* Univariate Analysis: Continuous and Categorical
-* Outlier Analysis
-* Bivariate Analysis: Continuous-Continuous, Continuous-Categorical and Categorical-Categorical
+* Univariate Analysis: Continuous using kde plots
+* Univariate Analysis: Categorical using bar plots
+* Outlier Analysis using Boxplots
+* Bivariate Analysis: Continuous-Continuous using correlation heatmap
+* Bivariate Analysis: Continuous-Categorical using bar plots and z-test
+* Bivariate Analysis: Categorical-Categorical using stacked bar plots and Chi-2 significance test
