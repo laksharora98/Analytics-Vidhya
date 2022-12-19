@@ -9,3 +9,5 @@ In this project, we do the following:
 * Use ReLU activation functions for hidden layer and Linear for output
 * Use Adam optimiser
 * Visualise learning through epochs
+![image](https://user-images.githubusercontent.com/91553008/208333199-fde1e741-3fef-4099-aa9b-3f1bbfeb559a.png)
+

@@ -12,3 +12,6 @@ In this project we do the following:
 * Bivariate Analysis: Continuous-Continuous using correlation heatmap
 * Bivariate Analysis: Continuous-Categorical using bar plots and z-test
 * Bivariate Analysis: Categorical-Categorical using stacked bar plots and Chi-2 significance test
+
+![image](https://user-images.githubusercontent.com/91553008/208332963-8ed57e1b-9576-4663-85d7-c72a0e1806bf.png)
+

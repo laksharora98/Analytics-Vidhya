@@ -16,3 +16,6 @@ In this project we do the following:
 * Reverse Feature Elimination
 * Lasso Regression with limited features
 * Comparison of all models
+
+![image](https://user-images.githubusercontent.com/91553008/208333093-7af1619a-27ba-4941-b415-bd6dc0614e3f.png)
+
