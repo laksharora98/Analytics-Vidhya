@@ -1,4 +1,4 @@
-This is a project to learn Time Series Analysis by predicitng Energy Consumption.
+This is a project to learn Time Series Analysis by predicting Energy Consumption.
 
 The .ipynb file can be opened as a jupyter notebook. The dataset should be present in the same folder as a .csv file.
 
