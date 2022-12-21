@@ -1,4 +1,4 @@
-This is a project to learn Time Series Analysis by predicting Energy Consumption.
+This is a project to learn Time Series Analysis by predicting Energy Consumption. [Link](https://github.com/laksharora98/Analytics-Vidhya/blob/main/Time%20Series%20Forecasting/Energy%20Consumption.ipynb)
 
 The .ipynb file can be opened as a jupyter notebook. The dataset should be present in the same folder as a .csv file.
 
