@@ -2,7 +2,7 @@ This is a project to learn Exploratory data analysis by doing it on the NYC Taxi
 
 The .ipynb file can be opened as a jupyter notebook. The dataset should be present in the same folder as a .csv file.
 
-In this project we do the following:
+In this project, I did the following:
 
 * Variable Identification and Typecasting
 * Feature Engineering to create new features
